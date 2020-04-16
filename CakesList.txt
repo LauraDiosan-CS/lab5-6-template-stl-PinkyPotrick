@@ -1,0 +1,3 @@
+1|Prajitura 1|Zahar, Faina|15
+2|Prajitura 2|Zahar, Lapte, Ciocolata|20
+3|Prajitura 3|Faina, Unt, Ciocolata|10
